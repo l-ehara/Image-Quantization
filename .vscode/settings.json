@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "opengl.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "utility": "c",
+        "vector": "c",
+        "octree.h": "c",
+        "glut.h": "c"
+    },
+    "cmake.configureOnOpen": false,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
